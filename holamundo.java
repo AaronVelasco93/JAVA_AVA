@@ -1,9 +1,16 @@
 public class holamundo{
 	public static void main (String [] args){
 
-		int numero; 
-		String Nombre;
-		System.out.print("Hola mundo desde la terminal de GIT");
+        // TODO code application logic here
+        
+        int lado = 20;
+        int area;
+            area=lado * lado;
+        System.out.print("Tu area es:");
+        System.out.print(area);
+        System.out.print(" metros");
+    
+
 	}}
 
 
